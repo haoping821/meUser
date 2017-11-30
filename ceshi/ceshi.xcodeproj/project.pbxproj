@@ -17,6 +17,7 @@
 		A3F0E8C91FCFAF0A00608C31 /* ceshiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F0E8C81FCFAF0A00608C31 /* ceshiTests.m */; };
 		A3F0E8D41FCFAF0A00608C31 /* ceshiUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F0E8D31FCFAF0A00608C31 /* ceshiUITests.m */; };
 		A3F0E8E31FCFB12200608C31 /* ViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F0E8E21FCFB12200608C31 /* ViewController1.m */; };
+		A3F0E92A1FCFD6DD00608C31 /* sanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F0E9291FCFD6DD00608C31 /* sanViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		A3F0E8D51FCFAF0A00608C31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A3F0E8E11FCFB12200608C31 /* ViewController1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController1.h; sourceTree = "<group>"; };
 		A3F0E8E21FCFB12200608C31 /* ViewController1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController1.m; sourceTree = "<group>"; };
+		A3F0E9281FCFD6DD00608C31 /* sanViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sanViewController.h; sourceTree = "<group>"; };
+		A3F0E9291FCFD6DD00608C31 /* sanViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sanViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +115,8 @@
 				A3F0E8B01FCFAF0900608C31 /* ViewController.m */,
 				A3F0E8E11FCFB12200608C31 /* ViewController1.h */,
 				A3F0E8E21FCFB12200608C31 /* ViewController1.m */,
+				A3F0E9281FCFD6DD00608C31 /* sanViewController.h */,
+				A3F0E9291FCFD6DD00608C31 /* sanViewController.m */,
 				A3F0E8B21FCFAF0A00608C31 /* Main.storyboard */,
 				A3F0E8B81FCFAF0A00608C31 /* Assets.xcassets */,
 				A3F0E8BA1FCFAF0A00608C31 /* LaunchScreen.storyboard */,
@@ -274,6 +279,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3F0E8E31FCFB12200608C31 /* ViewController1.m in Sources */,
+				A3F0E92A1FCFD6DD00608C31 /* sanViewController.m in Sources */,
 				A3F0E8B11FCFAF0900608C31 /* ViewController.m in Sources */,
 				A3F0E8AE1FCFAF0900608C31 /* AppDelegate.m in Sources */,
 				A3F0E8BF1FCFAF0A00608C31 /* main.m in Sources */,
